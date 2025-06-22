@@ -1,0 +1,1 @@
+Sve fileove stavite u root direktorij htdocs-a, osim SQL file-a koji importajte pod nazivonm "newsweek'.
